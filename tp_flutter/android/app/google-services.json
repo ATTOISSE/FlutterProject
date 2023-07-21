@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204440299105",
+    "project_id": "gestion-de-note-60eb0",
+    "storage_bucket": "gestion-de-note-60eb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204440299105:android:24d40d944edb3a47c06c20",
+        "android_client_info": {
+          "package_name": "com.example.tp_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204440299105-1v1k8l7lhcv2usodupk3pbtj8fq8jg6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMsh8pJfbtD9PUybUTogiOyQ_6R-P8oKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204440299105-1v1k8l7lhcv2usodupk3pbtj8fq8jg6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

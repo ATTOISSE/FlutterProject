@@ -1,0 +1,8 @@
+-- creation d'un compte
+-- Authentication direct Facebook | google
+    -- Recuperation du compte | Mot de passe oublié 
+    -- Confirmation du compte se fera avec un lien d'activation.
+-- Intégrer la catégorisation des données au niveau de l’ajout des données
+•	Publiques : Les données sont visibles par tous les utilisateurs
+•	Privées : Les données ne sont visibles que par celui qui les a créés
+

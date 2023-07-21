@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989037849591",
+    "project_id": "gestion-note",
+    "storage_bucket": "gestion-note.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989037849591:android:d1fc1811eb7f273b135cf2",
+        "android_client_info": {
+          "package_name": "com.example.projet_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989037849591-38ibshe5l26f4tm5amqrev3qv40inlp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-GaJ0U08UAYXnDnR80xuC0mS6oJK_ut0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989037849591-38ibshe5l26f4tm5amqrev3qv40inlp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
